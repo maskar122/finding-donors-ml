@@ -38,7 +38,7 @@ finding_donors/
 ├── requirements.txt # Dependencies
 └── README.md # This file
 
-📈 Methodology
+## 📈 Methodology
 1. Data Preprocessing
 Handling skewed features: Log transformation for capital-gain and capital-loss
 
