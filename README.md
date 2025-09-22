@@ -17,6 +17,12 @@ This project aims to help CharityML identify potential donors by predicting indi
 - ✅ **End-to-end ML pipeline** from data cleaning to deployment-ready model
 
 
+## 🖼️ Project Demo
+
+![Predicting Potential Donors for CharityML](https://github.com/maskar122/finding-donors-ml/blob/9312f4cfc4d13e8cef208d4b047c021d0d7b86eb/images/Screenshot%20(595).png)
+
+
+
 
 ## 🏆 Results Summary
 
