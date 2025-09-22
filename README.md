@@ -32,10 +32,14 @@ finding_donors/
 │
 ├── data/
 │ └── census.csv # Original dataset
+
 ├── notebooks/
 │ └── finding_donors.ipynb # Main Jupyter notebook
+
 ├── visuals.py # Visualization utilities
+
 ├── requirements.txt # Dependencies
+
 └── README.md # This file
 
 ## 📈 Methodology
